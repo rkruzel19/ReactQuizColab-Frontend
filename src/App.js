@@ -1,9 +1,10 @@
 import './App.css';
+import ViewQuestionTest from './components/ViewQuestionTest';
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <ViewQuestionTest />
     </div>
   );
 }
